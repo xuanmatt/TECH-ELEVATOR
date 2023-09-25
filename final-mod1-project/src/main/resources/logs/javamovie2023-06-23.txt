@@ -1,0 +1,1 @@
+movie was registered2023-06-2313:42:49.608399900Movie{id='31c5c386-f9dd-4fba-b470-560d079fadce', name='Home Alone', director='Chris Columbus', releaseDate=1990-11-16}

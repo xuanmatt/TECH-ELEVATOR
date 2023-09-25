@@ -1,0 +1,1 @@
+book was registered2023-06-2313:39:18.220316500Book{id='8b58dfb6-2080-4603-bbdf-ea9b2e3c1942', title='Stranger in a Strange Land', author='Robert A. Heinlein', publishDate=1961-06-01}
